@@ -1,2 +1,5 @@
 # weird-chess-position
-i got bored
+i got bored   
+
+
+Simply run the file with python.
